@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prosha
-- 👀 I’m interested in Neuro Physics, Quantum Photonics, Computer Hardware
+- 👀 I’m interested in Neuroscience, Biomedical Photonics 
 - 🌱 I’m currently learning Web development, Python Simulations 
 - 💞️ I’m looking to collaborate on anything really :D 
 - 📫 How to reach me .. 
